@@ -4,6 +4,10 @@ A simple cross platform (iOS and Android) React Native calculator app. This exam
 
 ![Demo](./assets/images/demo.png)
 
+### App Download Link
+
+- `https://www.mediafire.com/file/qo7ox1lr41oii9c/Calculator.apk/file`
+
 ### Installation
 
 - `git clone https://github.com/Ahemad007/Calculator`
